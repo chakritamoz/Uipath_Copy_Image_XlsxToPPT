@@ -1,0 +1,6 @@
+C:\Users\chakrit.pok\source\repos\image_xlsxToppt\bin\Debug\image_xlsxToppt.dll
+C:\Users\chakrit.pok\source\repos\image_xlsxToppt\bin\Debug\image_xlsxToppt.pdb
+C:\Users\chakrit.pok\source\repos\image_xlsxToppt\obj\Debug\CopyGroupExcelToPPT.csproj.ResolveComReference.cache
+C:\Users\chakrit.pok\source\repos\image_xlsxToppt\obj\Debug\image_xlsxToppt.dll
+C:\Users\chakrit.pok\source\repos\image_xlsxToppt\obj\Debug\image_xlsxToppt.pdb
+C:\Users\chakrit.pok\source\repos\image_xlsxToppt\obj\Debug\CopyGroupExcelToPPT.csprojAssemblyReference.cache
